@@ -5,4 +5,4 @@ build_script:
 - cmd: .\build.bat Package
 test: off
 artifacts:
-- path: '**\CertiPay.Services.PDF.*.nupkg'
+- path: '**\bin\Release\CertiPay.Services.PDF.*.nupkg'
