@@ -98,9 +98,7 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Models\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="..\packages\ABCpdf.ABCGecko.10.0.0.0\bin\ABCGecko.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
