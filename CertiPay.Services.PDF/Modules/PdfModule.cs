@@ -32,6 +32,7 @@ namespace CertiPay.Services.PDF.Modules
 
                 var settings = new PDFService.Settings()
                 {
+                    UseLandscapeOrientation = true,
                     Uris = new List<string>()
                     {
                         url
